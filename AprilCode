@@ -1,3 +1,5 @@
+//This code outputs an integer value
+
 #include <iostream>
 using namespace std;
 

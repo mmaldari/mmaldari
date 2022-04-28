@@ -1,4 +1,12 @@
-printf("Hello World")
-\\Prints Hello Wrold
-Adding new Code
-New Line of Code, New Description
+#include <iostream>
+using namespace std;
+
+int main() {    
+    int number;
+
+    cout << "Enter an integer: ";
+    cin >> number;
+
+    cout << "You entered " << number;    
+    return 0;
+}

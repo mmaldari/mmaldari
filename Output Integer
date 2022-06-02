@@ -1,4 +1,4 @@
-#include <iostream> //Adding comment to this code to describe intended purpose
+#include <iostream> //Adding comment to this code to describe intended purposes
 using namespace std;
 
 int main() {    
